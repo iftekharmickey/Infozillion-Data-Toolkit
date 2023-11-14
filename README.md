@@ -15,13 +15,11 @@
   - [Usage](#usage)
   - [Script Explanation](#script-explanation)
   - [Important Notes](#important-notes)
-  - [License](#license)
-  - [Author](#author)
 - [CSV-Error-Analyzer](#csv-error-analyzer)
   - [Purpose](#purpose)
   - [Usage](#usage)
-  - [License](#license)
-  - [Author](#author)
+- [License](#license)
+- [Author](#author)
 - [Disclaimer](#disclaimer)
 
 ---
